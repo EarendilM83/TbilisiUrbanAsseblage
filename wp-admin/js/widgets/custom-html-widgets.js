@@ -460,12 +460,3 @@ wp.customHtmlWidgets = ( function( $ ) {
 
 	return component;
 })( jQuery );
-
-
-// test function
-
-const firefly = () =>{
-	let fire = "fire"
-	return cosnole.log(fire);
-}
-firefly();
